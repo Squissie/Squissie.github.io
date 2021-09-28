@@ -1,0 +1,32 @@
+body{
+    display:flex;
+    flex-direction:column;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+ul{
+    display:flex;
+    list-style: none;
+    font-size: 40px;
+    margin: 0px;
+    padding: 0px;
+}
+
+li{
+    margin: 0px 20px;
+}
+
+.facebook{
+    color:rgb(53, 23, 185);
+}   
+
+.mail{
+    color: rgb(160, 59, 59);
+}
+
+a{
+    color:inherit;
+}
